@@ -1,0 +1,2 @@
+*Desactive el traductor para leer correctamente las respuestas de la trivia
+

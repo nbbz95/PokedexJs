@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url(https://img.wallpapersafari.com/desktop/1920/1080/15/79/GEJTf6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+main section img {
+    width: 100px;
+    padding: 10px;
+    margin: 10px;
+}
+
+main section img .delete {
+    width: 50px;
+}
+
+.pokemonData {
+    background-color: rgb(228, 228, 228);
+}
+
+
+.pokemonData img {
+    width: 200px;
+}
+

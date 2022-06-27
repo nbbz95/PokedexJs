@@ -1,0 +1,58 @@
+[
+    {
+        "categoria":"Rango 1 - Principiante",
+        "pregunta":"¿Cual es este pokemon?",
+        "respuesta":"Pikachu",
+        "incorrecta1":"Pidgey",
+        "incorrecta2":"Beedrill",
+        "incorrecta3":"Fearow",
+        "imagen": "https://i.ibb.co/1bWpcVp/pika.jpg",
+        "objectFit": "contain"
+    },
+    {
+        "categoria":"Rango 2 - Alto",
+        "pregunta":"¿Cual es este pokemon?",
+        "respuesta":"Caterpie",
+        "incorrecta1":"Pikachu",
+        "incorrecta2":"Pidgey",
+        "incorrecta3":"Weedle",
+        "imagen": "https://i.ibb.co/LkKkLyv/Caterpie.webp",
+        "objectFit": "contain"
+    },
+    {
+        "categoria":"Rango 3 - Avanzado",
+        "pregunta":"¿Cual es este pokemon?",
+        "respuesta":"Golduck",
+        "incorrecta1":"Mudkip",
+        "incorrecta2":"Wailord",
+        "incorrecta3":"Feebas",
+        "imagen": "https://i.ibb.co/xmqSy20/055.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria":"Rango 4 - Élite",
+        "pregunta":"¿Cual es este pokemon?",
+        "respuesta":"Lapras",
+        "incorrecta1":"Mew",
+        "incorrecta2":"Staryu",
+        "incorrecta3":"Cubone",
+        "imagen": "https://i.ibb.co/N2YS45f/131.png",
+        "objectFit": "contain"
+    },
+    {
+        "categoria":"Rango 5 - Experto",
+        "pregunta":"¿Cuál fue la primera consola que recibió Pokemon?",
+        "respuesta":"Gameboy",
+        "incorrecta1":"PSP",
+        "incorrecta2":"Sega",
+        "incorrecta3":"Xbox 360"
+    },
+    {
+        "categoria":"Rango 6 - Maestro",
+        "pregunta":"¿Qué Pokemon se basa en la misma leyenda japonesa que una bestia del anime Naruto?",
+        "respuesta":"Ninetales",
+        "incorrecta1":"Raichu",
+        "incorrecta2":"Arceus",
+        "incorrecta3":"Bulbasaur"
+    }
+]
